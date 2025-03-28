@@ -80,7 +80,7 @@ git clone https://github.com/Bawar11122001/Indoor-Air-Quality-Monitoring-System.
 
 ## 📧 Contact
 For any queries or suggestions, reach out to:  
-📧 Email: [your-email@example.com](mailto:bawarhusain11@gmail.com)
+📧 Email: [bawarhusain11@gmail.com](mailto:bawarhusain11@gmail.com)
 
 ---
 
